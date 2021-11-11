@@ -42,7 +42,6 @@ function pauseSong(){
 }
 
 function prevSong(){
-    console.log("aaqui");
     songIndex--;
 
     if(songIndex < 0){
